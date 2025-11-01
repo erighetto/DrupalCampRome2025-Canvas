@@ -1,0 +1,24 @@
+name: drupal-xb-dev
+repository: drupal-xb/ddev-drupal-xb-dev
+version: v0.0.24
+install_date: "2025-10-24T13:04:43+02:00"
+project_files:
+    - commands/host/xb-cypress
+    - commands/host/xb-fix
+    - commands/host/xb-setup
+    - commands/host/xb-static
+    - commands/web/xb-autosave
+    - commands/web/xb-core-set-version
+    - commands/web/xb-dev-extras
+    - commands/web/xb-eslint
+    - commands/web/xb-phpcs
+    - commands/web/xb-phpstan
+    - commands/web/xb-phpunit
+    - commands/web/xb-site-install
+    - commands/web/xb-stylelint
+    - commands/web/xb-ui-build
+    - commands/web/xb-ui-dev
+    - commands/web/xb-workspaces-dev
+    - config.drupal-xb-dev.yaml
+global_files: []
+removal_actions: []
