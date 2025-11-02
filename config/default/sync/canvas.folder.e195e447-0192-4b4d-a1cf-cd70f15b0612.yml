@@ -1,0 +1,10 @@
+uuid: e195e447-0192-4b4d-a1cf-cd70f15b0612
+langcode: en
+status: true
+dependencies: {  }
+name: Other
+configEntityTypeId: component
+weight: 0
+items:
+  - sdc.olivero.teaser
+  - sdc.sdc_test_all_props.all-props

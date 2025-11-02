@@ -8,3 +8,7 @@ November 14, 2025
 Sapienza University, Rome
 
 https://www.drupalcampitaly.it/
+
+## Agenda
+
+Read the [INTRO](INTRO.md)
