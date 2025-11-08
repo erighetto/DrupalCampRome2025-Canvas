@@ -146,13 +146,13 @@ Canvas può coesistere con altre soluzioni:
 ## Timeline e Roadmap
 
 ### Release Schedule
-- **Luglio 2024**: Completati tutti i beta blocker (poi rinviato per questioni legali sul nome)
-- **Fine Ottobre 2024**: Target per release stabile 1.0
+- **Luglio 2025**: Completati tutti i beta blocker (poi rinviato per questioni legali sul nome)
+- **Fine Ottobre 2025**: Target per release stabile 1.0
 - **Q1 2026**: Supporto multilingua previsto
 
 ### Utilizzo in Produzione
-- **Acquia Source**: già in produzione con Canvas da Luglio 2024
-- **Siti client**: stabile abbastanza per progetti con timeline flessibile (fine 2024)
+- **Acquia Source**: già in produzione con Canvas da Luglio 2025
+- **Siti client**: stabile abbastanza per progetti con timeline flessibile (fine 2025)
 - **Feature gap**: v1.0 non avrà tutte le capability di Layout Builder/Paragraphs
 
 ## Team e Risorse
@@ -219,7 +219,7 @@ Il punto di forza di Canvas vs soluzioni proprietarie:
 
 ### Repository
 - **In transizione**: da `drupal.org/project/experience_builder` a `drupal.org/project/canvas`
-- Migrazione prevista per fine settembre 2024
+- Migrazione prevista per fine settembre 2025
 
 ### Community
 - Canale Drupal Slack
