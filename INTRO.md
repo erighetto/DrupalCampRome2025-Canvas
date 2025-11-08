@@ -8,7 +8,7 @@ Drupal Canvas (precedentemente noto come Experience Builder) è un page builder 
 - Design visuale del sito
 - Gestione dell'intero workflow di sviluppo
 
-Il progetto è nato dalla necessità di colmare il gap tra le soluzioni esistenti (Layout Builder, Paragraphs) e le aspettative moderne degli utenti, offrendo un'esperienza che compete con soluzioni come Squarespace ma mantenendo la potenza e l'estensibilità di Drupal.
+Il progetto è nato dalla necessità di colmare il gap tra le soluzioni esistenti (Layout Builder, Paragraphs) e le aspettative moderne degli utenti, offrendo un'esperienza che compete con soluzioni come Squarespace/Webflow ma mantenendo la potenza e l'estensibilità di Drupal.
 
 ## Architettura e Tecnologie
 
